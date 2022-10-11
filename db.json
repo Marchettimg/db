@@ -205,7 +205,7 @@
         }
     ],
     ordenesReposicion:[
-   {
+      {
  	"ordenNro": 12548975,
 	"siniestroNro": 21548,
  	"polizaNro": 3251,
@@ -275,6 +275,7 @@
             "doc1",
             "doc2"
          ]
-    }
-]
+    }	      
+  }
+ ]
 }
